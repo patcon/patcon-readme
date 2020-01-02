@@ -18,3 +18,53 @@ This is an evolving document, intended as a demo for fellow worker-owners at [Hy
 - Cultures of gratitude are important to me.
 - At present, I am most proud of how I work in shared physical space with people, as touch-points with others act as accountability structures for me.
 - I am biased toward research and mapping landscapes, and can sometimes air on the side of too much mapping before initiating action.
+
+## Ideal Work Day
+
+- [ ] day 
+  - [ ] prepare next day's todos
+  - [ ] prepare breakfast
+  - [ ] prepare lunch
+  - [ ] have clothes laid out
+  - [ ] have daily carry packed
+- [ ] wake up early
+- [ ] I've slept with my phone far away
+  - [x] my phone is a recent model, with lots of storage and good specs
+  - [ ] I have an unlimited mobile data plan
+- [ ] do body weight exercises (30 min)
+- [ ] eat quick breakfast
+- [ ] bring packed lunch
+- [ ] leave house and bike to workplace, either:
+  - [ ] coworking space
+  - [ ] quiet cafe
+- [ ] open my laptop, which is a recent model and working well
+  - [ ] lots of free storage space and speedy specs
+- [ ] start time-tracking
+  - [ ] track time at least to WG-level
+  - [ ] ideally to task level
+- [ ] morning catch-up
+  - [ ] skim my `*@hypha.coop` emails
+  - [ ] skim chat
+    - [ ] we have WG-specific chat rooms
+    - [ ] casual/random convo is in one room
+  - [ ] catch up on [our Loomio](http://loomio.hypha.coop/)
+  - [ ] catch up on GitHub mentions via [our webapp](https://link.hypha.coop/mentions)
+  - [ ] catch up on [GitHub notifications](https://github.com/notifications)
+- [ ] I run an all-hands meeting
+  - [ ] I put on a good quality headset or earbuds with mic
+  - [ ] Since everyone is on the call, I take an extra 30 minutes to prepare as host, to use everyone's time wisely
+  - [ ] As host, I'm in the call room at least 5 min early
+  - [ ] we do a personal check-in question or comment
+  - [ ] everyone has crystal clear mic audio when speaking
+  - [ ] my space's wifi gets wonky, but I have my data plan to fall back on that without issue
+  - [ ] there is no background noise on anyone's call
+  - [ ] everyone is using video, and we can see one another's faces
+  - [ ] we do a quick process check-out
+- [ ] someone else hosts a quick meeting
+  - most days don't have multiple meetings
+  - [ ] we know in advance who's cultivating
+  - [ ] they're put in time to prepare
+- [ ] through the day, I'm being responsive on two fronts of communication
+  - [ ] chat for the WG's I'm on
+  - [ ] email (esp external
+- [ ] ....
