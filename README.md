@@ -54,11 +54,14 @@ This is an evolving document, intended as a demo for fellow worker-owners at [Hy
   - [ ] I put on a good quality headset or earbuds with mic
   - [ ] Since everyone is on the call, I take an extra 30 minutes to prepare as host, to use everyone's time wisely
   - [ ] As host, I'm in the call room at least 5 min early
-  - [ ] we do a personal check-in question or comment
-  - [ ] everyone has crystal clear mic audio when speaking
   - [ ] my space's wifi gets wonky, but I have my data plan to fall back on that without issue
-  - [ ] there is no background noise on anyone's call
+  - [ ] we do a personal check-in question or comment
+  - [ ] audio is perfect
+    - [ ] everyone has crystal clear mic audio when speaking
+    - [ ] there is no background noise on anyone's call
   - [ ] everyone is using video, and we can see one another's faces
+    - [ ] we have agreed that our "home" backgrounds should show some of our personality (no blank walls)
+    - [ ] someone is called out for being in a new room all this week with a blank wall, and the "interior decorator" role in the "Culture" circle knows that they have the authority to call that person out in a good-natured way.
   - [ ] we do a quick process check-out
 - [ ] someone else hosts a quick meeting
   - most days don't have multiple meetings
