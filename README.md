@@ -49,7 +49,8 @@ This is an evolving document, intended as a demo for fellow worker-owners at [Hy
     - [ ] casual/random convo is in one room
   - [ ] catch up on [our Loomio](http://loomio.hypha.coop/)
   - [ ] catch up on GitHub mentions via [our webapp](https://link.hypha.coop/mentions)
-  - [ ] catch up on [GitHub notifications](https://github.com/notifications)
+  - [ ] catch up on [GitHub notifications](https://github.com/notifications
+  - [ ] review [assigned issues](https://github.com/orgs/hyphacoop/projects/2?card_filter_query=assignee%3Apatcon)
 - [ ] I run an all-hands meeting
   - [ ] I put on a good quality headset or earbuds with mic
   - [ ] Since everyone is on the call, I take an extra 30 minutes to prepare as host, to use everyone's time wisely
